@@ -1,4 +1,4 @@
-# 🧮 Aplikasi Kalkulator Interaktif (Tema Pink Putih)
+# 🧮 Aplikasi Kalkulator Interaktif 
 
 Aplikasi Kalkulator Interaktif berbasis web dengan desain modern bertema **pink & putih**, dilengkapi fitur lengkap seperti history, memory, dan dukungan keyboard.
 
@@ -55,4 +55,4 @@ Berikut adalah tampilan antarmuka kalkulator:
 
 ## 👩‍💻 Dibuat Oleh
 Nama: **Aldanti Cahyani Putri**  
-Proyek: Tugas Akhir - Aplikasi Kalkulator Interaktif
+Proyek: Tugas Akhir - Praktikum Pemrograman Web
